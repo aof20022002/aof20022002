@@ -8,6 +8,7 @@ A driven Fullstack Developer and 4th-year Computer Science student at Mahasarakh
 * **Backend Development:** .NET Core (C#), Node.js, RESTful API Design, Clean Architecture
 * **Programming Languages:** C#, TypeScript, Java, C++, SQL, Dart
 * **Databases & DevOps Tools:** MySQL, Git & GitHub, Docker, Postman
+* **UI/UX & Prototyping:** Figma (Component Design, Wireframing, Design-to-Code workflow)
 
 ---
 
