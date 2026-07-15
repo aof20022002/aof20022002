@@ -20,7 +20,7 @@ A comprehensive web platform designed to streamline restaurant operations, reduc
 * **Key Implementations & Features:**
   * **Real-time Core & High Availability:** Developed a synchronized ordering workflow where customer selections immediately reflect on the kitchen monitor without page refreshes, backed by a highly scalable distributed database.
   * **Automated Kitchen Billing:** Built a backend state machine using .NET Core to automate order queuing, bill calculation, and live status updates for the kitchen staff, ensuring strong data consistency.
-  * **Data-Driven Admin Dashboard:** Created an intuitive analytics view for managers using Angular to track daily revenue, active tables, and popular menu items with optimized query performance on TiDB.
+ * **Data-Driven Admin Dashboard:** Created an intuitive analytics view for managers using Angular to track daily revenue and active tables with optimized query performance on TiDB.
 * **Tech Stack:** Angular, .NET Core (C#), TiDB (Distributed SQL), SCSS
 * **Source Code:** 
   * 🌐 [Frontend Repository](https://github.com/aof20022002/Buffet_Restaurant_management_System)
