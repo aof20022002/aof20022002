@@ -31,9 +31,9 @@ A comprehensive web platform designed to streamline restaurant operations, reduc
 Showcasing cross-platform mobile development capabilities, focusing on smooth UI rendering and clean state management.
 
 * 🛵 **Delivery Miniproject:** A food/parcel delivery management concept app. Focuses on mobile UI layout practices, responsive positioning, and simulation of location-based status tracking.
-  * 📱 [View Repository](https://github.com/aof20022002/delivery_miniproject)
+  * 📱 [View Repository](https://github.com/suwat-p/delivery_miniproject)
 * 🎰 **Lotto Application:** An interactive utility app utilizing random algorithm logic for ticket generation and state-driven result checking. Focuses on delivering a lightweight and fluid user experience.
-  * 📱 [View Repository](https://github.com/aof20022002/Lotto)
+  * 📱 [View Repository](https://github.com/jxmmie/Lotto)
 
 ---
 
