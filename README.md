@@ -1,26 +1,49 @@
-# Hi there, I'm Peerapong 👋 📢 [Open to Work]
+Hi there, I'm Peerapong 👋
 
-A passionate Fullstack Developer and 4th-year Computer Science student from Mahasarakham University. I am currently seeking opportunities for Fullstack / Frontend / Backend Developer roles. I specialize in building responsive web applications with clean architecture and efficient database management.
+A driven Fullstack Developer and 4th-year Computer Science student at Mahasarakham University. I enjoy creating web applications with a strong focus on clean architecture and real-time functionality.
+
+🛠️ Tech Stack & Tools
+
+* **Frontend:** Angular, TypeScript, HTML5, CSS3/SCSS
+* **Backend:** .NET Core (C#), Node.js
+* **Languages:** C#, TypeScript, Java, C++, SQL
+* **Databases & Tools:** MySQL, Git, Docker, Postman
+
+### 🛠️ Technical Expertise
+
+* **Frontend Development:** Angular, TypeScript, HTML5, CSS3/SCSS, Responsive Web Design
+* **Backend Development:** .NET Core (C#), Node.js, RESTful API Design, Clean Architecture
+* **Programming Languages:** C#, TypeScript, Java, C++, SQL, Dart
+* **Databases & DevOps Tools:** MySQL, Git & GitHub, Docker, Postman
 
 ---
 
-### 🛠️ Technical Skills
+### 🚀 Highlight Projects
 
-* **Frontend Development:** Angular, TypeScript, HTML5, CSS3/SCSS
-* **Backend Development:** .NET Core (C#), Node.js
-* **Programming Languages:** C#, TypeScript, Java, C++, SQL
-* **Databases & DevOps Tools:** MySQL, Git, Docker, Postman
+#### 🍔 1. Buffet Restaurant Management System (Full-Scale Web Application)
+A comprehensive web platform designed to streamline restaurant operations, reduce manual errors, and improve customer experience through automation.
+
+* **Key Implementations & Features:**
+  * **Real-time Core:** Developed a synchronized ordering workflow where customer selections immediately reflect on the kitchen monitor without page refreshes.
+  * **Automated Kitchen Billing:** Built a backend state machine using .NET Core to automate order queuing, bill calculation, and live status updates for the kitchen staff.
+  * **Data-Driven Admin Dashboard:** Created an intuitive analytics view for managers using Angular to track daily revenue, active tables, and popular menu items.
+* **Tech Stack:** Angular, .NET Core (C#), MySQL, SCSS
+* **Source Code:** 
+  * 🌐 [Frontend Repository](https://github.com/aof20022002/Buffet_Restaurant_management_System)
+  * ⚙️ [Backend API Repository](https://github.com/aof20022002/Buffet_restaurant_API)
 
 ---
 
-### 🚀 Highlight Project
+#### 📦 2. Mobile Applications (Dart & Flutter Ecosystem)
+Showcasing cross-platform mobile development capabilities, focusing on smooth UI rendering and clean state management.
 
-* 💻 **Buffet Restaurant Management System:** Developed a comprehensive web application for restaurant operations, featuring web-based table management, real-time customer ordering, automated billing systems, and a data-driven admin dashboard. Built using **Angular**, **.NET Core**, and **MySQL**.
+* 🛵 **Delivery Miniproject:** A food/parcel delivery management concept app. Focuses on mobile UI layout practices, responsive positioning, and simulation of location-based status tracking.
+  * 📱 [View Repository](https://github.com/aof20022002/delivery_miniproject)
+* 🎰 **Lotto Application:** An interactive utility app utilizing random algorithm logic for ticket generation and state-driven result checking. Focuses on delivering a lightweight and fluid user experience.
+  * 📱 [View Repository](https://github.com/aof20022002/Lotto)
 
 ---
 
-### 📬 Let's Connect!
-
-I am ready to bring my technical skills and enthusiasm to your team. Feel free to reach out!
+📬 Connect with me:
 
 * 📧 **Email:** [peerapong20022002@gmail.com]
