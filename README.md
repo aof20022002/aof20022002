@@ -23,8 +23,8 @@ A comprehensive web platform designed to streamline restaurant operations, reduc
  * **Data-Driven Admin Dashboard:** Created an intuitive analytics view for managers using Angular to track daily revenue and active tables with optimized query performance on TiDB.
 * **Tech Stack:** Angular, .NET Core (C#), TiDB (Distributed SQL), SCSS
 * **Source Code:** 
-  * 🌐 [Frontend Repository](https://github.com/aof20022002/Buffet_Restaurant_management_System)
-  * ⚙️ [Backend API Repository](https://github.com/aof20022002/Buffet_restaurant_API)
+  * 🌐 [Frontend Repository](https://github.com/suwat-p/Buffet_Restaurant_management_System)
+  * ⚙️ [Backend API Repository](https://github.com/suwat-p/Buffet_restaurant_API)
 ---
 
 #### 📦 2. Mobile Applications (Dart & Flutter Ecosystem)
