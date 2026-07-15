@@ -2,13 +2,6 @@ Hi there, I'm Peerapong 👋
 
 A driven Fullstack Developer and 4th-year Computer Science student at Mahasarakham University. I enjoy creating web applications with a strong focus on clean architecture and real-time functionality.
 
-🛠️ Tech Stack & Tools
-
-* **Frontend:** Angular, TypeScript, HTML5, CSS3/SCSS
-* **Backend:** .NET Core (C#), Node.js
-* **Languages:** C#, TypeScript, Java, C++, SQL
-* **Databases & Tools:** MySQL, Git, Docker, Postman
-
 ### 🛠️ Technical Expertise
 
 * **Frontend Development:** Angular, TypeScript, HTML5, CSS3/SCSS, Responsive Web Design
