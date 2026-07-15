@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Peerapong 👋
 
-<!--
-**aof20022002/aof20022002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Fullstack Developer. I love building web applications, focusing on clean code and performance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Tools
+
+* **Frontend:** Angular, TypeScript, HTML5, CSS3/SCSS
+* **Backend:** .NET Core (C#), Node.js
+* **Languages:** C#, TypeScript, Java, C++
+* **Databases & Tools:** TiDB (Distributed SQL), Git, Docker, Postman
+
+---
+
+### 💻 Featured Project
+
+* **🍔 Buffet Restaurant Management System:** A full-scale system featuring real-time ordering, automated kitchen billing, and an admin dashboard. Built with **Angular**, **.NET Core**, and **TiDB**.
+
+---
+
+### 📬 Connect with me:
+
+* **Email:** [peerapong20022002@gmail.com]
